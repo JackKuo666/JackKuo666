@@ -6,4 +6,4 @@
 - :house: I live in Lisbon
 - :snake: I like Python
 - :crab: And rust
-
+- :earth_africa: check out [my blog](https://tomforb.es)
