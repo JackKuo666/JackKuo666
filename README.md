@@ -1,10 +1,9 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=orf&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JackKuo666&show_icons=true">
 
 Hello! :wave:
 
-- :sunglasses: I'm Tom
-- :house: I live in London
+- :sunglasses: I'm Jack
+- :house: I live in Hangzhou
 - :snake: I like Python
-- :crab: And rust
-- :earth_africa: check out [my blog](https://tomforb.es)
+- :earth_africa: check out [my CV](https://menghaoguo.com/)
