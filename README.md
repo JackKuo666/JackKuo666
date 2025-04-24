@@ -1,7 +1,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JackKuo666&show_icons=true">
-
 **About Me**  
+
 👋 Hi, I’m Jack Guo  
 📍 Based in Hangzhou, China  
 🐍 Python Enthusiast | AI Researcher  
