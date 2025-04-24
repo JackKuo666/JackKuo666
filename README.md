@@ -1,14 +1,14 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JackKuo666&show_icons=true">
-
 Hello! :wave:
 
 **About Me**  
 👋 Hi, I’m Jack Guo  
 📍 Based in Hangzhou, China  
-🐍 Passionate about Python & AI  
-🧬 Focused on LLM agents & foundation models for life sciences  
-📄 Explore my work: [CV / Portfolio](https://menghaoguo.com/)  
+🐍 Python Enthusiast | AI Researcher  
+🧠 Focus: LLM Agents · Foundation Models · NLP · Data Mining  
+🔬 Applying AI to advance Life Sciences  
+📄 Learn more: [CV / Portfolio](https://menghaoguo.com/)  
 
 
 The 2024 Nobel Prizes in Physics and Chemistry were awarded to the fields of artificial intelligence and AI-driven life sciences, respectively. This landmark event heralds to the world that we are now in the midst of a paradigm-shifting revolution in scientific research, spearheaded by AI.  
