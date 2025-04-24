@@ -1,6 +1,5 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JackKuo666&show_icons=true">
-Hello! :wave:
 
 **About Me**  
 👋 Hi, I’m Jack Guo  
