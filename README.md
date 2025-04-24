@@ -3,9 +3,10 @@
 
 Hello! :wave:
 
-- :sunglasses: I'm Jack
+- :sunglasses: I'm Jack Guo
 - :house: I live in Hangzhou
 - :snake: I like Python
+- 🕶️ Focus on leveraging LLM agents and foundation models for ​life sciences
 - :earth_africa: check out [my CV](https://menghaoguo.com/)
 
 The 2024 Nobel Prizes in Physics and Chemistry were awarded to the fields of artificial intelligence and AI-driven life sciences, respectively. This landmark event heralds to the world that we are now in the midst of a paradigm-shifting revolution in scientific research, spearheaded by AI.  
